@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+My Personal Profile: [@tobytheghost](https://github.com/tobytheghost)
+
 <!--
-**toby-qubit/toby-qubit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tobytheghost/tobytheghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
